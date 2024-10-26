@@ -36,6 +36,3 @@ A huge thanks to [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) for h
 
 ## Conclusion  
 This project has been an invaluable learning experience, showing how SQL can transform raw data into meaningful insights. I'm excited to continue my journey in data analytics!
-
-## Project Link  
-[GitHub Repository](https://lnkd.in/dUgkpJtd)
