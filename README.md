@@ -1,4 +1,5 @@
 Employee Layoffs Data Analysis (2020-2023) 📊
+
 Project Overview
 Welcome to my first real-world SQL project! 🚀 As a data enthusiast, I aimed to uncover key insights into employee layoffs data from 2020 to 2023 using MySQL. This project involves cleaning and analyzing data to reveal trends across industries, countries, and time periods.
 
